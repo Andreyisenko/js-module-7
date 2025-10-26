@@ -90,7 +90,7 @@ body {
   background-color: #7675d7;
 
   width: auto;
-  height: 200px;
+  height: auto;
 }
 
 .item {
@@ -101,4 +101,11 @@ body {
 
 .item1 {
   color: #81080e;
+}
+
+.imago {
+  border-radius: 10px;
+
+  display: block;
+  margin-bottom: 10px;
 }
