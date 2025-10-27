@@ -6,3 +6,24 @@
   height: 20px;
   background-color: aqua;
 }
+
+.title {
+  color: rgb(13, 54, 104);
+}
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.gallery-item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px;
+  text-align: center;
+  width: 200px;
+  background: #f8f8f8;
+}
+
+.gallery-item img {
+  border-radius: 6px;
+}
