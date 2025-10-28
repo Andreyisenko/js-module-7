@@ -81,8 +81,9 @@ body {
 }
 
 .title1 {
-  background-color: #b3e18b;
-  color: green;
+  background-color: #928be1;
+  border-radius: 20px;
+  color: rgb(100, 87, 11);
   text-align: center;
 }
 
@@ -108,4 +109,16 @@ body {
 
   display: block;
   margin-bottom: 10px;
+}
+
+.student-card {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  padding: 5px;
+  background-color: aquamarine;
+  margin: 10px 50px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #4f4616;
 }
