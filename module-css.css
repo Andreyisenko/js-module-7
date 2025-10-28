@@ -122,3 +122,19 @@ body {
   border: 1px solid;
   border-color: #4f4616;
 }
+
+.prod-card {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  padding: 5px;
+  background-color: rgb(55, 77, 173);
+  margin: 10px 50px;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #4f4616;
+}
+.title3 {
+  color: rgb(20, 206, 20);
+  font-size: 24px;
+}
